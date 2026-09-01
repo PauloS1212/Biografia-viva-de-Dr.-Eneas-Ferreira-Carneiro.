@@ -27,7 +27,7 @@ ________________________________________________________________________________
 
 -----PROMPT:
 
-⬇️
+➡️
   Analisando projetos, ideias, polêmicas, debates, história de vida, etc. Dê uma nota de 0 a 10 sobre o político e destaque (dando nota para cada tópico aqui falado com uma justificativa técnica e abrangente):
 -Como seria o seu impacto no Brasil se ele fosse presidente pelo menos um mandato ou até hoje;
 -Como as pessoas iriam reagir as suas políticas públicas e as suas consequências em seu mandato;
@@ -36,7 +36,7 @@ Para uma conclusão final, mostre seus erros e acertos. Seus pontos negativos e 
 
 -----RESPOSTA DO NOTEBOOKlm:
 
-💠
+⬇️
   ### Análise Geral do Político: Enéas Ferreira Carneiro
 
 **Nota Geral: 5,0 / 10**
@@ -107,7 +107,7 @@ Embora Enéas Carneiro detivesse uma mente brilhante, nacionalismo autêntico e 
 
 -----PROMPT:
 
-⬇️
+➡️
   Com as fontes aqui depositadas, todas as informações foram muito enviesadas ou houve certo equilíbrio em seu argumentos e observações. Destaque as principais fontes que defendem e que atacam Enéias e faça uma espécie de disputa entre elas, no final, verificando qual é mais:
 -Lógica;
 -Verdadeira;
@@ -116,7 +116,7 @@ Embora Enéas Carneiro detivesse uma mente brilhante, nacionalismo autêntico e 
 
 -----RESPOSTA DO NOTEBOOKlm:
 
-💠
+⬇️
   ### Equilíbrio e Tensão Teórica nas Fontes
 
 O ecossistema de trinta fontes selecionadas para este projeto não se apresenta de forma unilateral ou puramente enviesada. Existe um **notável equilíbrio e uma rica tensão dialética** no material coletado. As fontes dividem-se em diferentes campos de análise e posicionamento ideológico, permitindo que as afirmações sobre Enéas Carneiro sejam confrontadas por múltiplas lentes:
@@ -180,7 +180,7 @@ ________________________________________________________________________________
 # CONCLUSÃO:
 -----PROMPT:
 
-⬇️
+➡️
   Para uma conclusão desse projeto, quero que você sintetise tudo aqui falado e todas as fontes e faça:
 
 
@@ -194,7 +194,7 @@ ________________________________________________________________________________
 
 -----RESPOSTA DO NOTEBOOLlm:
 
-💠
+⬇️
   ### Conclusão do Projeto: Enéas Ferreira Carneiro — Biografia, Pensamento e Legado
 
 ---
@@ -333,12 +333,12 @@ o plano de governo estatista do fundador do PRONA? Justifique de forma rigorosa.
 
 -----PROMPT:
 
-⬇️
+➡️
   Cite mais outros conceitos politicos aprendidos também nas suas respostas
 
 -----RESPOSTA DO NOTEBOOKlm:
 
-💠
+⬇️
   ### Outros Conceitos Políticos das Fontes e Trajetória de Enéas Carneiro
 
 ---
@@ -367,12 +367,12 @@ Refere-se à **estratégia de mobilizar e assustar a opinião pública conservad
 
 -----PROMPT:
 
-⬇️
+➡️
   faça mais 5 prompt simples para entender a mente de Enéas.
   
 -----RESPOSTA DO NOTEBOOKlm:
 
-💠
+⬇️
   Aqui estão mais **5 prompts simples e bem direcionados** para aprofundar a investigação sobre as ideias, o modelo de governabilidade e as contradições práticas de Enéas Carneiro, todos formulados a partir dos debates e dados históricos das fontes:
 
 ---
